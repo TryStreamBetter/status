@@ -1,3 +1,12 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "id": "2026-10-hosting-outage",
+      "status": "resolved",
+      "severity": "outage",
+      "title": "Sorry about the recent outage",
+      "message": "Our hosting provider had a major outage that affected many services across the internet, including StreamBuddy. While it was down, some of you couldn't log in or load your dashboard. Everything is back to normal, and no chat history or viewer data was lost. We're sorry for the disruption, and thanks for sticking with us.",
+      "showUntil": "2026-10-24T00:00:00Z"
+    }
+  ]
 }
